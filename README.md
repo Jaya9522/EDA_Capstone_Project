@@ -1,8 +1,9 @@
 # EDA_Capstone_Project Play Store App Review Analysis
 
+## Problem Statement
 
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
-Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps.
+Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps.
 Explore and analyze the data to discover key factors responsible for app engagement and success.
 
 ## Abstract: 
@@ -21,10 +22,8 @@ loading the data into data frame
 cleaning the data
 extracting statistics from the dataset
 
+## conclusion
+![image](https://user-images.githubusercontent.com/98402439/204295591-bed13591-7f6f-4471-8982-b627e20df404.png)
 
-## Problem Statement
 
-The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
-Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps.
-Explore and analyze the data to discover key factors responsible for app engagement and success.
 
