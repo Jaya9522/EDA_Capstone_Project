@@ -78,7 +78,7 @@ Apart from this, two new columns were added to the main data frame, namely, “R
 Installs
 * We analysis the install column to observe the effect of size, price, rating, content rating, android version on app installation number. We can analysis that for each and every category number of app installation does not depend on the size. The free apps installed mostly. The apps which can be used by everyone is more installed than the apps which can be used by a particular age group. Rating of mostly installed apps is between 4 and 5.
 
-🛠 ## Challenges Faced:
+## Challenges Faced:
 * Reading the dataset and comprehending the problem statement. Our major challenge was data cleaning.
 * Handling the error, duplicate and NaN values in the dataset.
 * 13.60% of reviews were NaN values, and even after merging both the dataframes, we could not infer much in order to fill them. Thus we had to drop them.
